@@ -9,7 +9,7 @@ const Home = () => {
     <div className='bg-white w-4/12 h-4/5 p-2 mt-20 slide-in-left flex flex-col'>
 
       <div className='w-full p-4 flex items-center justify-start gap-x-8'>
-        <img className='rounded-full w-3/12' src="https://i.postimg.cc/J4ddWMpj/Foto-4x4.jpg" alt="" />
+        <img className='rounded-full w-1/4  ' src="https://i.postimg.cc/0ywFcNXF/Fotodeperfil.jpg" alt="" />
         <h1 className='text-4xl w-min text-[#0d0121] titulo'>PABLO FRANCISCO <br /> BELSITO</h1>
       </div>
 
